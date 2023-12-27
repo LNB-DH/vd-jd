@@ -3,4 +3,4 @@ Tools from National Library of Latvia for transforming texts written in Fraktur 
 
 ## LNB
 
-[National Library of Latvia](htpps://lnb.lv)
+[National Library of Latvia](https://lnb.lv)
